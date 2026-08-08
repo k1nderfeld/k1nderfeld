@@ -1,6 +1,6 @@
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=50&duration=4000&pause=99999&color=8B0000&center=true&vCenter=true&width=600&height=75&lines=Baltazar+Rodr%C3%ADguez+Tapia&v=6">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=UnifrakturCook&size=50&duration=4000&pause=99999&color=8B0000&center=true&vCenter=true&width=600&height=75&lines=Baltazar+Rodr%C3%ADguez+Tapia&v=6">
     <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=50&duration=4000&pause=99999&color=000000&center=true&vCenter=true&width=600&height=75&lines=Baltazar+Rodr%C3%ADguez+Tapia&v=6" alt="Baltazar Rodríguez">
   </picture>
 </h1>
