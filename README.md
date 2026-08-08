@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=6000&pause=99999&color=6A0DAD&center=true&vCenter=true&width=500&height=30&lines=Estudiante+de+Ingenier%C3%ADa+en+Computaci%C3%B3n+e+Inform%C3%A1tica&v=4" alt="Ocupación" />
-<//p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=45&width=800&section=header&text=Estudiante%20de%20Ingenier%C3%ADa%20en%20Computaci%C3%B3n%20e%20Inform%C3%A1tica&fontSize=18&fontColor=C0C0C0&fontAlign=50&fontAlignY=55" alt="Ocupación" />
+</p>
 
 <p align="center">
   ⸸ ✦ ⸸
