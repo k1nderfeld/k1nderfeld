@@ -5,3 +5,5 @@
 <p align="center">
   ⸸ ✦ ⸸
 </p>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=4B0082&height=3&section=header)
