@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <sub><b>Ingeniería en Computación e Informática</b></sub>
+  <sub><b>Estudiante de Ingeniería en Computación e Informática</b></sub>
 </p>
 
 <p align="center">
