@@ -7,8 +7,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" font=Fira+Code&size=16&duration=1&pause=99999&color=9B6BB5&center=true&vCenter=true&width=700&height=30&lines=Estudiante+de+Ingenier%C3%ADa+en+Computaci%C3%B3n+e+Inform%C3%A1tica&v=6">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=99999&color=8A8A8A&center=true&vCenter=true&width=700&height=30&lines=Estudiante+de+Ingenier%C3%ADa+en+Computaci%C3%B3n+e+Inform%C3%A1tica&v=6" alt="Ocupación" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=99999&color=9B6BB5&center=true&vCenter=true&width=700&height=30&lines=Estudiante+de+Ingenier%C3%ADa+en+Computaci%C3%B3n+e+Inform%C3%A1tica&v=7">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=99999&color=8A8A8A&center=true&vCenter=true&width=700&height=30&lines=Estudiante+de+Ingenier%C3%ADa+en+Computaci%C3%B3n+e+Inform%C3%A1tica&v=7" alt="Ocupación">
   </picture>
 </p>
 
